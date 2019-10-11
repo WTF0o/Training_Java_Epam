@@ -1,4 +1,4 @@
-package company.Training_Java_Epam.Programming_with_classes.Simple_Class.Task2;
+package epam.Training_Java_Epam.Programming_with_classes.Simple_Class.Task2;
 
 public class Task2 {
 

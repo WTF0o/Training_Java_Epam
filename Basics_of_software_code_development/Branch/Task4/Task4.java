@@ -1,6 +1,5 @@
-package company.Training_Java_Epam.Basics_of_software_code_development.Branch.Task4;
+package epam.Training_Java_Epam.Basics_of_software_code_development.Branch.Task4;
 
-import java.io.Console;
 import java.util.Scanner;
 
 public class Task4 {

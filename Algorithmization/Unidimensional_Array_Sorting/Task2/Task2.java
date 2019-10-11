@@ -1,4 +1,4 @@
-package company.Training_Java_Epam.Algorithmization.Unidimensional_Array_Sorting.Task2;
+package epam.Training_Java_Epam.Algorithmization.Unidimensional_Array_Sorting.Task2;
 
 import java.util.Arrays;
 import java.util.Scanner;

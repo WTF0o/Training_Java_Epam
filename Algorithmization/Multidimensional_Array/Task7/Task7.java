@@ -1,6 +1,5 @@
-package company.Training_Java_Epam.Algorithmization.Multidimensional_Array.Task7;
+package epam.Training_Java_Epam.Algorithmization.Multidimensional_Array.Task7;
 
-import java.util.Arrays;
 import java.util.Scanner;
 
 public class Task7 {

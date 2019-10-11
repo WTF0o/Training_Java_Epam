@@ -1,4 +1,4 @@
-package company.Training_Java_Epam.Basics_of_software_code_development.Branch.Task3;
+package epam.Training_Java_Epam.Basics_of_software_code_development.Branch.Task3;
 
 import java.util.Scanner;
 

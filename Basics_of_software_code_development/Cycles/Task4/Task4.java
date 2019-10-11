@@ -1,4 +1,4 @@
-package company.Training_Java_Epam.Basics_of_software_code_development.Cycles.Task4;
+package epam.Training_Java_Epam.Basics_of_software_code_development.Cycles.Task4;
 
 public class Task4 {
 

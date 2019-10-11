@@ -1,4 +1,4 @@
-package company.Training_Java_Epam.Algorithmization.Unidimensional_Array.Task6;
+package epam.Training_Java_Epam.Algorithmization.Unidimensional_Array.Task6;
 
 import java.text.DecimalFormat;
 import java.util.Scanner;

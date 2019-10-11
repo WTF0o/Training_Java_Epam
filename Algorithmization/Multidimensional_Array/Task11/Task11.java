@@ -1,4 +1,4 @@
-package company.Training_Java_Epam.Algorithmization.Multidimensional_Array.Task11;
+package epam.Training_Java_Epam.Algorithmization.Multidimensional_Array.Task11;
 
 public class Task11 {
 

@@ -1,4 +1,4 @@
-package company.Training_Java_Epam.Algorithmization.Multidimensional_Array.Task2;
+package epam.Training_Java_Epam.Algorithmization.Multidimensional_Array.Task2;
 
 import java.util.Scanner;
 

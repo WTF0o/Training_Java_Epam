@@ -1,4 +1,4 @@
-package company.Training_Java_Epam.Algorithmization.Unidimensional_Array.Task9;
+package epam.Training_Java_Epam.Algorithmization.Unidimensional_Array.Task9;
 
 import java.util.Scanner;
 
