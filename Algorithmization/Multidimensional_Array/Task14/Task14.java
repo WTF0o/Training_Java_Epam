@@ -1,5 +1,10 @@
 package epam.Training_Java_Epam.Algorithmization.Multidimensional_Array.Task14;
 
+/*
+14. Сформировать случайную матрицу m x n, состоящую из нулей и единиц, причем в каждом столбце число
+единиц равно номеру столбца.
+ */
+
 import java.util.Scanner;
 
 public class Task14 {

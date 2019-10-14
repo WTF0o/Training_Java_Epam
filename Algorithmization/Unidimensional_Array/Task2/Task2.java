@@ -1,5 +1,10 @@
 package epam.Training_Java_Epam.Algorithmization.Unidimensional_Array.Task2;
 
+/*
+2. Дана последовательность действительных чисел а1 ,а2 ,..., ап. Заменить все ее члены, большие данного Z, этим
+числом. Подсчитать количество замен.
+ */
+
 import java.util.Scanner;
 
 public class Task2 {

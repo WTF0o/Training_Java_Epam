@@ -1,5 +1,11 @@
 package epam.Training_Java_Epam.Basics_of_software_code_development.Branch.Task5;
 
+/*
+Вычислить значение функции:
+F(x)= (x² - 3x + 9 если x⩽ 3
+      ( 1/(x³+6) если x > 3
+ */
+
 import java.util.Scanner;
 
 public class Task5 {

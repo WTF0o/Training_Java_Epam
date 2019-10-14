@@ -1,5 +1,11 @@
 package epam.Training_Java_Epam.Programming_with_classes.Simple_Class.Task2;
 
+/*
+2. Создйте класс Test2 двумя переменными. Добавьте конструктор с входными параметрами. Добавьте
+конструктор, инициализирующий члены класса по умолчанию. Добавьте set- и get- методы для полей экземпляра
+класса.
+ */
+
 public class Task2 {
 
     public static void main(String[] args) {

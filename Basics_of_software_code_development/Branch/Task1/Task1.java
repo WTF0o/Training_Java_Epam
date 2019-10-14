@@ -1,5 +1,10 @@
 package epam.Training_Java_Epam.Basics_of_software_code_development.Branch.Task1;
 
+/*
+1. Даны два угла треугольника (в градусах). Определить, существует ли такой треугольник, и если да, то будет ли
+он прямоугольным.
+ */
+
 import java.util.Scanner;
 
 public class Task1 {

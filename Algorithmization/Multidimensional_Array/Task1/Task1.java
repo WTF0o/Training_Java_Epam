@@ -1,5 +1,9 @@
 package epam.Training_Java_Epam.Algorithmization.Multidimensional_Array.Task1;
 
+/*
+1. Дана матрица. Вывести на экран все нечетные столбцы, у которых первый элемент больше последнего.
+ */
+
 import java.util.Scanner;
 
 public class Task1 {

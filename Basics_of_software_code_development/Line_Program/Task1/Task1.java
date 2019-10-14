@@ -1,5 +1,8 @@
 package epam.Training_Java_Epam.Basics_of_software_code_development.Line_Program.Task1;
 
+/*
+1. Найдите значение функции: z = ( (a – 3 ) * b / 2) + c.
+ */
 import java.util.Scanner;
 
 public class Task1 {
@@ -9,13 +12,12 @@ public class Task1 {
         Scanner scanner=new Scanner(System.in);
         double a,b,c,z;
 
-
         System.out.print("Введите a,b,c: ");
-        a=scanner.nextDouble();
-        b=scanner.nextDouble();
-        c=scanner.nextDouble();
+        a = scanner.nextDouble();
+        b = scanner.nextDouble();
+        c = scanner.nextDouble();
 
-        z=((a - 3) * b / 2) + c;
+        z = ((a - 3) * b / 2) + c;
 
         System.out.println();
         System.out.print("z=" + z);

@@ -1,5 +1,9 @@
 package epam.Training_Java_Epam.Algorithmization.Multidimensional_Array.Task2;
 
+/*
+2. Дана квадратная матрица. Вывести на экран элементы, стоящие на диагонали.
+ */
+
 import java.util.Scanner;
 
 public class Task2 {

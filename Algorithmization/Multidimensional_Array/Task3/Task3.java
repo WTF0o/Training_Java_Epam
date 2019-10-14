@@ -1,5 +1,9 @@
 package epam.Training_Java_Epam.Algorithmization.Multidimensional_Array.Task3;
 
+/*
+3. Дана матрица. Вывести k-ю строку и p-й столбец матрицы.
+ */
+
 import java.util.Scanner;
 
 public class Task3 {

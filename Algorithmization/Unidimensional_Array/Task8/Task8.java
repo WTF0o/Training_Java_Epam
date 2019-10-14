@@ -1,5 +1,11 @@
 package epam.Training_Java_Epam.Algorithmization.Unidimensional_Array.Task8;
 
+/*
+Дана последовательность целых чисел a1,a2 .. an.
+Образовать новую последовательность, выбросив из исходной те члены, которые равны
+min( a1,a2 ... an )
+ */
+
 import java.util.Scanner;
 
 public class Task8 {

@@ -1,5 +1,9 @@
 package epam.Training_Java_Epam.Algorithmization.Unidimensional_Array.Task4;
 
+/*
+4. Даны действительные числа а1 ,а2 ,..., аn . Поменять местами наибольший и наименьший элементы.
+ */
+
 import java.util.Scanner;
 
 public class Task4 {

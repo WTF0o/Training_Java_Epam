@@ -1,5 +1,10 @@
 package epam.Training_Java_Epam.Algorithmization.Unidimensional_Array.Task6;
 
+/*
+6. Задана последовательность N вещественных чисел. Вычислить сумму чисел, порядковые номера которых
+являются простыми числами.
+ */
+
 import java.text.DecimalFormat;
 import java.util.Scanner;
 

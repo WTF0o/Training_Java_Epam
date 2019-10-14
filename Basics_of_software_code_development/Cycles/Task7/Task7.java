@@ -1,5 +1,10 @@
 package epam.Training_Java_Epam.Basics_of_software_code_development.Cycles.Task7;
 
+/*
+7. Для каждого натурального числа в промежутке от m до n вывести все делители, кроме единицы и самого числа.
+m и n вводятся с клавиатуры.
+ */
+
 import java.util.Scanner;
 
 public class Task7 {

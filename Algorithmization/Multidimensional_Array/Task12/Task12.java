@@ -1,5 +1,9 @@
 package epam.Training_Java_Epam.Algorithmization.Multidimensional_Array.Task12;
 
+/*
+12. Отсортировать строки матрицы по возрастанию и убыванию значений элементов.
+ */
+
 public class Task12 {
 
     public static void main(String[] args) {

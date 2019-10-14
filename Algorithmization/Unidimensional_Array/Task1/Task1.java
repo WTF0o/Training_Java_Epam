@@ -1,5 +1,9 @@
 package epam.Training_Java_Epam.Algorithmization.Unidimensional_Array.Task1;
 
+/*
+1. В массив A [N] занесены натуральные числа. Найти сумму тех элементов, которые кратны данному К.
+ */
+
 import java.util.Scanner;
 
 public class Task1 {

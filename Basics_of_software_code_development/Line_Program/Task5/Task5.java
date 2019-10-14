@@ -1,5 +1,11 @@
 package epam.Training_Java_Epam.Basics_of_software_code_development.Line_Program.Task5;
 
+/*
+5. Дано натуральное число Т, которое представляет длительность прошедшего времени в секундах. Вывести
+данное значение длительности в часах, минутах и секундах в следующей форме:
+ННч ММмин SSc.
+ */
+
 import java.util.Scanner;
 
 public class Task5 {

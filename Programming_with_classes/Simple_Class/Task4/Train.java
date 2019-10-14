@@ -1,10 +1,9 @@
 package epam.Training_Java_Epam.Programming_with_classes.Simple_Class.Task4;
 
 import java.util.Arrays;
-import java.util.Comparator;
 import java.util.GregorianCalendar;
 
-public class Train implements Comparable {
+public class Train implements Comparable<Train> {
 
     private int numberTrain;
     private GregorianCalendar departureTime;
@@ -18,10 +17,10 @@ public class Train implements Comparable {
 
     public Train() { }
 
-    public void getInfoTrain(int numberTrain){
+    public String getInfoTrain(int numberTrain){
 
-        System.out.println("Number train " + numberTrain + ", destination " + destination
-                + ", departure time " + departureTime.getTime());
+        return "Number train " + numberTrain + ", destination " + destination
+                + ", departure time " + departureTime.getTime();
 
     }
 
@@ -49,7 +48,7 @@ public class Train implements Comparable {
         this.destination = destination;
     }
 
-    public static Train[] sortNumberTrain(Train[] trains){
+    public static Train[] sortingByNumberTrain(Train[] trains){
 
         Train buf;
 
@@ -67,16 +66,15 @@ public class Train implements Comparable {
 
     }
 
-    public static Train[] sortDestination(Train[] trains){
+    public static Train[] sortingByDestination(Train[] trains){
 
         Arrays.sort(trains);
         return trains;
 
     }
 
-    public int compareTo(Object o) {
+    public int compareTo(Train train) {
 
-        Train train = (Train) o;
         int result = this.destination.compareTo(train.destination);
         if(result == 0) result = this.departureTime.compareTo(train.departureTime);
         return result;

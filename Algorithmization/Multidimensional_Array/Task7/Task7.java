@@ -1,5 +1,13 @@
 package epam.Training_Java_Epam.Algorithmization.Multidimensional_Array.Task7;
 
+/*
+Сформировать квадратную матрицу порядка N по правилу:
+A[I,J] = sin(I² - J²)
+             --------
+                N
+и подсчитать количество положительных элементов в ней.
+ */
+
 import java.util.Scanner;
 
 public class Task7 {

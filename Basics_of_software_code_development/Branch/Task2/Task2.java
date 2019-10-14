@@ -1,5 +1,9 @@
 package epam.Training_Java_Epam.Basics_of_software_code_development.Branch.Task2;
 
+/*
+2. Найти max{min(a, b), min(c, d)}.
+ */
+
 import java.util.Scanner;
 
 public class Task2 {

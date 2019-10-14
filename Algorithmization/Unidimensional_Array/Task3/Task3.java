@@ -1,5 +1,10 @@
 package epam.Training_Java_Epam.Algorithmization.Unidimensional_Array.Task3;
 
+/*
+3. Дан массив действительных чисел, размерность которого N. Подсчитать, сколько в нем отрицательных,
+положительных и нулевых элементов.
+ */
+
 import java.util.Scanner;
 
 public class Task3 {

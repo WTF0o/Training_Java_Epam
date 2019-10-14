@@ -1,5 +1,10 @@
 package epam.Training_Java_Epam.Basics_of_software_code_development.Branch.Task4;
 
+/*
+4. Заданы размеры А, В прямоугольного отверстия и размеры х, у, z кирпича. Определить, пройдет ли кирпич через
+отверстие.
+ */
+
 import java.util.Scanner;
 
 public class Task4 {

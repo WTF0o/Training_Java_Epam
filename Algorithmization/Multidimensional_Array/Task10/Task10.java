@@ -1,5 +1,9 @@
 package epam.Training_Java_Epam.Algorithmization.Multidimensional_Array.Task10;
 
+/*
+10. Найти положительные элементы главной диагонали квадратной матрицы
+ */
+
 public class Task10 {
 
     public static void main(String[] args) {

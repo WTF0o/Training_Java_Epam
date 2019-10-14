@@ -1,5 +1,9 @@
 package epam.Training_Java_Epam.Algorithmization.Unidimensional_Array.Task5;
 
+/*
+5. Даны целые числа а1 ,а2 ,..., аn . Вывести на печать только те числа, для которых аi > i.
+ */
+
 import java.util.Scanner;
 
 public class Task5 {

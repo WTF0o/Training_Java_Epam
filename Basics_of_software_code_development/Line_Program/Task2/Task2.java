@@ -1,5 +1,9 @@
 package epam.Training_Java_Epam.Basics_of_software_code_development.Line_Program.Task2;
 
+/*
+Вычислить значение выражения по формуле (все переменные принимают действительные значения):
+((𝑏 + √𝑏²+4ac) / 2a) -  𝑎³𝑐 + 𝑏−²
+ */
 import java.util.Scanner;
 
 public class Task2 {

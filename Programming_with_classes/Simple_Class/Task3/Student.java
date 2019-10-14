@@ -1,5 +1,7 @@
 package epam.Training_Java_Epam.Programming_with_classes.Simple_Class.Task3;
 
+import java.util.ArrayList;
+
 public class Student {
 
     private String fio;
@@ -38,18 +40,27 @@ public class Student {
         this.progress = progress;
     }
 
-    public static void printStudents(Student[] students){
+    public static ArrayList<Student> findExcellentStudents(Student[] students){
+
+        ArrayList<Student> excellentStudentsList = new ArrayList<>();
 
         for (Student student:students) {
             boolean excellentStudent = true;
 
             for (int assessment:student.progress)
-                if(assessment < 9) excellentStudent = false;
+                if(assessment < 9){
+
+                    excellentStudent = false;
+                    break;
+
+                }
 
             if(excellentStudent)
-                System.out.println("Excellent student " + student.fio + " group " + student.numberGroup);
+                excellentStudentsList.add(student);
 
         }
+
+        return excellentStudentsList;
 
     }
 

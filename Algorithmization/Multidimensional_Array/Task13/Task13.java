@@ -1,5 +1,9 @@
 package epam.Training_Java_Epam.Algorithmization.Multidimensional_Array.Task13;
 
+/*
+13. Отсотрировать стобцы матрицы по возрастанию и убыванию значений эементов.
+ */
+
 public class Task13 {
 
     public static void main(String[] args) {

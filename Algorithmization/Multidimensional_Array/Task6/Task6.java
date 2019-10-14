@@ -1,5 +1,17 @@
 package epam.Training_Java_Epam.Algorithmization.Multidimensional_Array.Task6;
 
+/*
+ Сформировать квадратную матрицу порядка n по заданному образцу(n - четное):
+|1  1   1  ... 1    1   1|
+|0  1   1  ... 1    1   0|
+|0  0   1  ... 1    0   0|
+|.  .   .  .   .    .   .
+ .  .   .   .  .    .   .
+ .  .   .    . .    .   .
+|0  1   1  ... 1    1   0|
+|1  1   1  ... 1    1   1|
+ */
+
 import java.util.Scanner;
 
 public class Task6 {

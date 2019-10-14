@@ -1,5 +1,9 @@
 package epam.Training_Java_Epam.Algorithmization.Unidimensional_Array.Task10;
 
+/*
+10. Дан целочисленный массив с количеством элементов п. Сжать массив, выбросив из него каждый второй
+элемент (освободившиеся элементы заполнить нулями). Примечание. Дополнительный массив не использовать.
+ */
 
 import java.util.Arrays;
 import java.util.Scanner;

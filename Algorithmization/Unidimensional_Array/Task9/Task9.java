@@ -1,5 +1,10 @@
 package epam.Training_Java_Epam.Algorithmization.Unidimensional_Array.Task9;
 
+/*
+9. В массиве целых чисел с количеством элементов n найти наиболее часто встречающееся число. Если таких
+чисел несколько, то определить наименьшее из них
+ */
+
 import java.util.Scanner;
 
 public class Task9 {

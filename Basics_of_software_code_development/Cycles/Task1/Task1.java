@@ -1,5 +1,10 @@
 package epam.Training_Java_Epam.Basics_of_software_code_development.Cycles.Task1;
 
+/*
+1. Напишите программу, где пользователь вводит любое целое положительное число. А программа суммирует
+все числа от 1 до введенного пользователем числа.
+ */
+
 import java.util.Scanner;
 
 public class Task1 {

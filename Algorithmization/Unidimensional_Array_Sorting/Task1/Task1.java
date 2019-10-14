@@ -1,5 +1,11 @@
 package epam.Training_Java_Epam.Algorithmization.Unidimensional_Array_Sorting.Task1;
 
+/*
+1. Заданы два одномерных массива с различным количеством элементов и натуральное число k. Объединить их в
+один массив, включив второй массив между k-м и (k+1) - м элементами первого, при этом не используя
+дополнительный массив.
+ */
+
 import java.util.Arrays;
 import java.util.Scanner;
 

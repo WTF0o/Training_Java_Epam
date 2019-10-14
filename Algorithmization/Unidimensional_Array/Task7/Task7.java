@@ -1,5 +1,10 @@
 package epam.Training_Java_Epam.Algorithmization.Unidimensional_Array.Task7;
 
+/*
+7. Даны действительные числа a1, a2,... an.
+Найти max( a1 + a2n a2 + a2n−1 ... an + an+1 )
+ */
+
 import java.util.Scanner;
 
 public class Task7 {

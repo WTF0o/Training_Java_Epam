@@ -1,5 +1,11 @@
 package epam.Training_Java_Epam.Basics_of_software_code_development.Cycles.Task2;
 
+/*
+Вычислить значения функции на отрезке [а,b] c шагом h:
+y = (x,x > 2
+    (-x,x ⩽ 2
+ */
+
 import java.util.Scanner;
 
 public class Task2 {
