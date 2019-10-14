@@ -12,9 +12,9 @@ public class Test1{
 
     }
 
-    public void print(){
+    public String print(){
 
-        System.out.printf("a1=%d" + "\t" + "a2=%d" + "\n",a1,a2);
+        return "a1=" + a1 + "\ta2=" + a2;
 
     }
 

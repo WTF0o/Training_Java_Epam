@@ -13,7 +13,7 @@ public class Task1 {
         Test1 test1 = new Test1();
 
         test1.setAll(5,7);
-        test1.print();
+        System.out.println(test1.print());
 
         System.out.println(test1.CheckValues());
         System.out.println(test1.sum());
