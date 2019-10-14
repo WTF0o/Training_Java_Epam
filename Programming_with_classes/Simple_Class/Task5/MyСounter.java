@@ -1,5 +1,6 @@
 package epam.Training_Java_Epam.Programming_with_classes.Simple_Class.Task5;
 
+
 public class MyСounter {
 
     private int value;
@@ -12,7 +13,7 @@ public class MyСounter {
 
     public MyСounter() {
 
-        value = 0;
+        value = (int) (Math.random() * 99);
 
     }
 
