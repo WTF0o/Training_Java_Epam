@@ -88,6 +88,13 @@ public class Customer {
 
     @Override
     public String toString() {
-        return super.toString();
+        return "Customer " +
+                "id=" + id +
+                ", surname='" + surname + '\'' +
+                ", name='" + name + '\'' +
+                ", patronymic='" + patronymic + '\'' +
+                ", address='" + address + '\'' +
+                ", numberCard=" + numberCard +
+                ", numberBankBill=" + numberBankBill;
     }
 }

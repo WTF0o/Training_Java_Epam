@@ -56,23 +56,17 @@ public class Task8 {
 
 
         System.out.println("Customers: ");
-        customers.forEach(customer -> System.out.println("ID " + customer.getId() + " " +
-                            customer.getSurname() + " " +
-                            customer.getName() + " " +
-                            customer.getPatronymic() + " " +
-                            customer.getAddress() + " number card " +
-                            customer.getNumberCard() + " number bank bill " +
-                            customer.getNumberBankBill()));
+        customers.forEach(customer -> System.out.println(customer.toString()));
 
         Store.addStoreCustomers(customers);
         System.out.println("Sorted by name: ");
-        Store.orderByName().forEach(customer -> System.out.println(customer.getName()));
+        Store.orderByName().forEach(customer -> System.out.println(customer.toString()));
 
         System.out.println("Sorted by surname: ");
-        Store.orderBySurname().forEach(customer -> System.out.println(customer.getSurname()));
+        Store.orderBySurname().forEach(customer -> System.out.println(customer.toString()));
 
         System.out.println("Sorted by number: ");
-        Store.getStoreCustomersByRangeNumberCard(50,100).forEach(customer -> System.out.println(customer.getSurname()));
+        Store.getStoreCustomersByRangeNumberCard(50,100).forEach(customer -> System.out.println(customer.toString()));
 
     }
 
